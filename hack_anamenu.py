@@ -575,7 +575,7 @@ def ana_menu():
         print(Fore.CYAN + """╔══════════════════════════════════╗      Sistem Uyumluluğu:
 ║       """ + Fore.YELLOW + "Redux HackTool" + Fore.CYAN + """             ║      ---""")
         print(Fore.CYAN + "║       Discord:" + Fore.LIGHTMAGENTA_EX + "redux_1" + Fore.CYAN + "         ║     " + Fore.YELLOW + "**Kali Linux:**")
-        print(Fore.CYAN + "║       İnstagram:" + Fore.LIGHTMAGENTA_EX + "reduxkatliammachine " + Fore.CYAN + "        ║     " + Fore.GREEN + " * Cihaza Deauth Saldırısı: Tamamen çalışır.")
+        print(Fore.CYAN + "║       İnstagram:" + Fore.LIGHTMAGENTA_EX + "en5s1 " + Fore.CYAN + "        ║     " + Fore.GREEN + " * Cihaza Deauth Saldırısı: Tamamen çalışır.")
         print(Fore.CYAN + "║                                  ║     " + Fore.GREEN + " * Modeme/IP Flood Saldırısı: Tamamen çalışır.")
         print(Fore.CYAN + "╠══════════════════════════════════╣     " + Fore.GREEN + " * OSINT Google Arama: Tamamen çalışır.")
         print(Fore.CYAN + "║ " + Fore.YELLOW + "1) 📡 Cihaza Deauth Saldırısı" + Fore.CYAN + "    ║     " + Fore.GREEN + " * WiFi Bağlanma (Mode Managed): Tamamen çalışır.")
